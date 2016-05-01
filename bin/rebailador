@@ -1,6 +1,6 @@
 use File::Find;
 
-sub MAIN ( Str $app, Str :$w = 'lib,bin,views,public') {
+sub MAIN ( Str $app, Str :$w = 'lib,bin') {
     my @watchlist = $w.split: /<!after \\> \,/;
     s/\\\,/,/ for @watchlist;
 

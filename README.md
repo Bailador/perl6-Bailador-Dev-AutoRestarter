@@ -13,7 +13,7 @@ code of your Bailador app for changes and automatically restart the app.
 ### `--w`
 
 Takes comma-separated list of directories to watch. By default,
-will watch `lib`, `bin`, `views`, and `public` directories.
+will watch `lib` and `bin` directories.
 
 If you have to watch a directory with a comma in its name, prefix it with a backslash:
 
