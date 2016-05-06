@@ -7,7 +7,7 @@ sub MAIN ( Str $app, Str :$w = 'lib,bin') {
     say "Attempting to boot up the app";
     my $p = bootup-app $app;
     react {
-        whenever watch-recursive(@watchlist.grep: *.IO.e) -> $change {
+        whenever watch-recursive(@watchlist.grep: *.IO.e) -> $e {
             say "Change detected [$e.path(), $e.event()]. Restarting app";
             $p.kill;
             $p = bootup-app $app;
