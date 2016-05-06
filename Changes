@@ -1,7 +1,0 @@
-Revision History for 'Bailador-Dev-AutoRestarter' Perl 6 Distribution
-
-1.002002  2016-05-06
-  - Fixed a bug where the script used 100% CPU while listening for changes
-
-1.001001  2016-04-29
-  - First version released on an unsuspecting world
