@@ -1,3 +1,7 @@
+This roject is deprecated.
+The content was merged into the main Bailador project.
+Thanks to Zoffix for the contribution.
+
 
 # DESCRIPTION
 
