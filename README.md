@@ -1,4 +1,4 @@
-This roject is deprecated.
+This project is deprecated.
 The content was merged into the main Bailador project.
 Thanks to Zoffix for the contribution.
 
@@ -28,12 +28,12 @@ If you have to watch a directory with a comma in its name, prefix it with a back
 # REPOSITORY
 
 Fork this module on GitHub:
-https://github.com/zoffixznet/perl6-Bailador-Dev-AutoRestarter
+https://github.com/Bailador/perl6-Bailador-Dev-AutoRestarter
 
 # BUGS
 
 To report bugs or request features, please use
-https://github.com/zoffixznet/perl6-Bailador-Dev-AutoRestarter/issues
+https://github.com/Bailador/perl6-Bailador-Dev-AutoRestarter/issues
 
 # AUTHOR
 
